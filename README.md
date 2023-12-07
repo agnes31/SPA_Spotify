@@ -1,4 +1,4 @@
-## Artists de Spotify
+## Artistes de Spotify
 
 SPA - Single Page Application - Node.js
 
@@ -63,3 +63,5 @@ https://github.com/agnes31/SPA_Spotify
 
 
 - Demo/video
+
+https://github.com/agnes31/SPA_Spotify/assets/134739427/de8c6d51-d0b3-40c4-bd6e-e2486c27182a
