@@ -1,0 +1,391 @@
+{
+    "dates": {
+        "maximum": "2023-10-04",
+        "minimum": "2023-08-17"
+    },
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/1syW9SNna38rSl9fnXwc9fP7POW.jpg",
+            "genre_ids": [
+                28,
+                878,
+                12
+            ],
+            "id": 565770,
+            "original_language": "en",
+            "original_title": "Blue Beetle",
+            "overview": "Fraîchement diplômé de l’université, Jaime Reyes rentre chez lui, plein d’ambitions, mais il découvre que la situation a bien changé depuis son départ. Tandis qu’il cherche sa place dans le monde, le destin s’en mêle : Jaime se retrouve par hasard en possession du Scarabée, une ancienne relique d’une biotechnologie extraterrestre. Dès lors que le Scarabée choisit de faire de Jaime son hôte, le jeune homme se voit revêtu d’une armure hors du commun qui lui octroie des pouvoirs extraordinaires – et imprévisibles. Tout bascule alors pour Jaime qui devient le super-héros Blue Beetle …",
+            "popularity": 2972.534,
+            "poster_path": "/xSVtl6ZF7fNuZIoXkZbzI2EzoAD.jpg",
+            "release_date": "2023-08-18",
+            "title": "Blue Beetle",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 956
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/53z2fXEKfnNg2uSOPss2unPBGX1.jpg",
+            "genre_ids": [
+                27,
+                9648,
+                53
+            ],
+            "id": 968051,
+            "original_language": "en",
+            "original_title": "The Nun II",
+            "overview": "1956, France. Un prêtre est assassiné, un mal se propage et sœur Irene se retrouve à nouveau face à face avec la force malveillante de Valak, la nonne démoniaque.",
+            "popularity": 1092.159,
+            "poster_path": "/wfsG1HRTgEwJr0GuluPHpIAVzhv.jpg",
+            "release_date": "2023-09-08",
+            "title": "La Nonne : La Malédiction de Sainte-Lucie",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 339
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jv4tiXAgaArMQo57jFMjvBEjmoa.jpg",
+            "genre_ids": [
+                28,
+                18,
+                12
+            ],
+            "id": 980489,
+            "original_language": "en",
+            "original_title": "Gran Turismo",
+            "overview": "Gran Turismo est inspiré de l'incroyable histoire vécue d'une invraisemblable bande d'infortunés – un amateur de jeu vidéo de classe ouvrière, un ex-pilote d'autos de course paumé et un idéaliste de l'industrie du sport motorisé. Ensemble, ils risquent tout pour percer dans le sport le plus prestigieux au monde. Gran Turismo est une captivante histoire et un feu roulant d'action qui prouvent que tout est possible lorsqu'on conduit avec l'énergie du désespoir.",
+            "popularity": 976.892,
+            "poster_path": "/2TeRgAdl9TLqmdSxMMJ3j2E0vYp.jpg",
+            "release_date": "2023-08-25",
+            "title": "Gran Turismo",
+            "video": false,
+            "vote_average": 7.8,
+            "vote_count": 473
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jkKVLzLWjSvTnc84VzeljhSy6j8.jpg",
+            "genre_ids": [
+                10749,
+                18
+            ],
+            "id": 820525,
+            "original_language": "en",
+            "original_title": "After Everything",
+            "overview": "",
+            "popularity": 476.745,
+            "poster_path": "/brIDXQSf02a09i13xvMDTkRlO7z.jpg",
+            "release_date": "2023-09-13",
+            "title": "After Everything",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 64
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/iQcCAm8hKWZyUntqrvzyEGtXyJl.jpg",
+            "genre_ids": [
+                878,
+                28,
+                53
+            ],
+            "id": 670292,
+            "original_language": "en",
+            "original_title": "The Creator",
+            "overview": "Dans un futur proche, les humains et l'intelligence artificielle (IA) se livrent une guerre sans merci. Joshua, un ex-agent des forces spéciales fragilisé par la disparition de sa femme, est recruté pour traquer et neutraliser le Créateur, l'insaisissable architecte d'une IA avancée à l'origine d'une arme qui pourrait mettre fin à la guerre... et détruire l'humanité tout entière. Avec l'aide d'une unité d'agents d'élite, Joshua traverse les lignes ennemies et pénètre au coeur de leur dangereux territoire. Il découvrira bientôt que l'arme funeste qu'il est chargé de détruire n'est autre qu'une intelligence artificelle supérieure qui a pris les traits d'un jeune enfant...",
+            "popularity": 371.899,
+            "poster_path": "/nIWMhHe2WM3T3z5qsFjZlLkLaS6.jpg",
+            "release_date": "2023-09-29",
+            "title": "The Creator",
+            "video": false,
+            "vote_average": 7.7,
+            "vote_count": 34
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9b3uxqcjkmay20EBZZj1KVow0r5.jpg",
+            "genre_ids": [
+                80,
+                27,
+                53
+            ],
+            "id": 951491,
+            "original_language": "en",
+            "original_title": "Saw X",
+            "overview": "Les événements se situent entre SAW I et II, on y retrouve un John, malade et désespéré, qui se rend au Mexique afin de subir une opération expérimentale capable de guérir son cancer, mais il découvre que tout ceci n’est qu’une escroquerie visant des malades vulnérables et affligés. Animé d'un nouveau but, le célèbre tueur en série retourne à son œuvre, et va prendre sa revanche sur ces escrocs dans un terrible « jeu » dont il a le secret, à travers des pièges toujours plus machiavéliques et ingénieux les uns que les autres.",
+            "popularity": 346.198,
+            "poster_path": "/aQPeznSu7XDTrrdCtT5eLiu52Yu.jpg",
+            "release_date": "2023-09-29",
+            "title": "Saw X",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 16
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1HzL603WOer58xtnrRYdSIL5K04.jpg",
+            "genre_ids": [
+                35,
+                12
+            ],
+            "id": 912908,
+            "original_language": "en",
+            "original_title": "Strays",
+            "overview": "Après s'être fait expliquer par un terrier beau parleur que son maître adoré est une ordure, un toutou naïf se lance dans une quête épique de vengeance.",
+            "popularity": 325.247,
+            "poster_path": "/wZquGx4o6m4nC0XhHs0j7MpqP1H.jpg",
+            "release_date": "2023-08-18",
+            "title": "Backstreet Dogs",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 373
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/h0nmmdFAdBjQttN8Y0q825MWzZp.jpg",
+            "genre_ids": [
+                28,
+                53,
+                80
+            ],
+            "id": 926393,
+            "original_language": "en",
+            "original_title": "The Equalizer 3",
+            "overview": "Depuis qu'il a renoncé à sa vie d'assassin au service du gouvernement, Robert McCall peine à faire la paix avec ses démons du passé et trouve un étrange réconfort en défendant les opprimés. Alors qu'il a trouvé son havre de paix dans le sud de l'Italie, il découvre que ses amis sont sous le contrôle de la mafia locale. Quand les événements prennent une tournure mortelle, McCall sait ce qu'il doit faire : protéger ses amis en s'attaquant à la mafia.",
+            "popularity": 311.412,
+            "poster_path": "/kmF41xVEKf9SX2ipCCbDxdjGO4p.jpg",
+            "release_date": "2023-09-01",
+            "title": "Equalizer 3",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 240
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fwXeTKmJvlv7kbH8QDmbykGfMeK.jpg",
+            "genre_ids": [
+                16,
+                10751,
+                35,
+                28,
+                878
+            ],
+            "id": 893723,
+            "original_language": "en",
+            "original_title": "PAW Patrol: The Mighty Movie",
+            "overview": "Les chiots de la Pat' Patrouille se transforment en Super Patrouille après qu'un météore se soit écrasé sur Aventureville. Pour Stella, la plus petite membre de l'équipe, ses nouveaux pouvoirs sont un rêve devenu réalité, mais les choses prennent une mauvaise tournure lorsque l'ennemi juré des chiots, Monsieur Hellinger, s'échappe de prison et s'associe à un scientifique fou pour voler leur superpouvoirs.",
+            "popularity": 159.484,
+            "poster_path": "/oXnSu4raRAd65QVBQXvdHMC6AuW.jpg",
+            "release_date": "2023-09-29",
+            "title": "La Pat' Patrouille : La Super Patrouille Le Film",
+            "video": false,
+            "vote_average": 8.3,
+            "vote_count": 7
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kHlX3oqdD4VGaLpB8O78M25KfdS.jpg",
+            "genre_ids": [
+                9648,
+                53,
+                80
+            ],
+            "id": 945729,
+            "original_language": "en",
+            "original_title": "A Haunting in Venice",
+            "overview": "Dans la Venise sinistrée de l'après-guerre, la veille de la Toussaint, un terrifiant mystère va marquer le retour d’Hercule Poirot sur le devant de la scène. En exil volontaire dans la Sérénissime, Poirot, désormais à la retraite, assiste à contrecœur à une séance de spiritisme dans un palazzo désaffecté et soi-disant hanté. Lorsqu’un des invités est assassiné, le célèbre détective se retrouve propulsé dans un sinistre monde empli d'ombres et de secrets.",
+            "popularity": 137.674,
+            "poster_path": "/4CPYBGhNc6YGTuy0xynyY9jtEzj.jpg",
+            "release_date": "2023-09-15",
+            "title": "Mystère à Venise",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 479
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1yhQqbi1rZg9EJiOI22i8Xg7vW.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 814776,
+            "original_language": "en",
+            "original_title": "Bottoms",
+            "overview": "Deux filles queer impopulaires dans leur dernière année créent un club de combat pour essayer d'impressionner et de se connecter avec des pom-pom girls afin qu'elles puissent perdre leur virginité avant l'obtention de leur diplôme.",
+            "popularity": 96.918,
+            "poster_path": "/jeyTQrNEpyE1LZIgVlswYh3sc34.jpg",
+            "release_date": "2023-08-25",
+            "title": "Amour et self-défense",
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 58
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bYpmDDNatiGvqa4iShuw5xTpMYt.jpg",
+            "genre_ids": [
+                878,
+                35,
+                18
+            ],
+            "id": 1072371,
+            "original_language": "en",
+            "original_title": "Jules",
+            "overview": "Un visiteur inhabituel et inattendu rassemble plusieurs personnes vivant dans une petite ville de la Pennsylvanie.",
+            "popularity": 75.141,
+            "poster_path": "/yMOWu8rpZPiBI0j8MInBTtNO0vU.jpg",
+            "release_date": "2023-08-18",
+            "title": "Jules",
+            "video": false,
+            "vote_average": 7.8,
+            "vote_count": 61
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hb0BeFvZNx2zLGWwuwENOIVeK1U.jpg",
+            "genre_ids": [
+                35,
+                18,
+                36
+            ],
+            "id": 792293,
+            "original_language": "en",
+            "original_title": "Dumb Money",
+            "overview": "BÊTEMENT RICHE (Dumb Money en version originale) est l'exemple moderne ultime de David vs. Goliath. Basé sur une incroyable histoire vraie, le film raconte comment de petits actionnaires ont bouleversé Wall Street en transformant GameStop (le petit magasin de jeux vidéo en déclin) en la compagnie la plus intéressante du moment. Parmi ces petits investisseurs, Keith Gill (Paul Dano) initie le mouvement en misant toutes ses économies sur cette action et en en faisant la promotion en ligne. Quand ses publications sur les réseaux sociaux deviennent virales et que d’autres petits investisseurs embarquent, l’action prend de la valeur et tout le monde devient riche… jusqu’à ce que des milliardaires contre-attaquent.",
+            "popularity": 44.18,
+            "poster_path": "/gbOnTa2eTbCAznHiusxHI5oA78c.jpg",
+            "release_date": "2023-09-22",
+            "title": "Dumb Money",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 12
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9uFAyoe3hCdX7uo944ZzpvcVBHG.jpg",
+            "genre_ids": [
+                80
+            ],
+            "id": 1126608,
+            "original_language": "zh",
+            "original_title": "绝地追击",
+            "overview": "",
+            "popularity": 24.742,
+            "poster_path": "/tHYEuh8OYYmqPD4awBjE9n5TGzN.jpg",
+            "release_date": "2023-09-08",
+            "title": "绝地追击",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 5
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                10749,
+                18
+            ],
+            "id": 895959,
+            "original_language": "en",
+            "original_title": "Float",
+            "overview": "",
+            "popularity": 23.706,
+            "poster_path": null,
+            "release_date": "2023-09-30",
+            "title": "Float",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                35
+            ],
+            "id": 1180929,
+            "original_language": "en",
+            "original_title": "Catherine & Michael",
+            "overview": "",
+            "popularity": 12.782,
+            "poster_path": "/iZy1EssIHMgMPh4ZNV6JF3KfnUT.jpg",
+            "release_date": "2023-09-27",
+            "title": "Catherine & Michael",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 1073557,
+            "original_language": "fr",
+            "original_title": "Sur la terre comme au ciel",
+            "overview": "",
+            "popularity": 12.495,
+            "poster_path": null,
+            "release_date": "2023-10-01",
+            "title": "Sur la terre comme au ciel",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 1181698,
+            "original_language": "en",
+            "original_title": "PARADE PROTEST",
+            "overview": "",
+            "popularity": 10.983,
+            "poster_path": "/sPc4x9ET1uto3UMKq9r369ENToq.jpg",
+            "release_date": "2023-10-01",
+            "title": "PARADE PROTEST",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 1181695,
+            "original_language": "xx",
+            "original_title": "Glide",
+            "overview": "",
+            "popularity": 10.861,
+            "poster_path": "/AeGdWtyyW41vCM6nm1Lr0b9wlws.jpg",
+            "release_date": "2023-10-01",
+            "title": "Glide",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kSGL47a0xbK5mPN0EOMtdKuNQ7F.jpg",
+            "genre_ids": [
+                878,
+                35
+            ],
+            "id": 777411,
+            "original_language": "en",
+            "original_title": "Landscape with Invisible Hand",
+            "overview": "Dans un futur proche. Une espèce extraterrestre connue sous le nom de Vuvv a pris possession de la Terre provoquant l'effondrement du marché du travail et de l'économie mondiale. Un adolescent et sa petite amie trouvent un moyen de gagner de l'argent en diffusant leur vie amoureuse aux aliens, fascinés...",
+            "popularity": 9.495,
+            "poster_path": "/cnXvfZrj1azU5Rvbb8D7Fz0wkyt.jpg",
+            "release_date": "2023-08-18",
+            "title": "Landscape with Invisible Hand",
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 12
+        }
+    ],
+    "total_pages": 4,
+    "total_results": 62
+}

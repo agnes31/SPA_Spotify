@@ -1,0 +1,796 @@
+{
+  "href" : "https://api.spotify.com/v1/artists/2CIMQHirSU0MQqyYHq0eOx/albums?include_groups=album,single,compilation,appears_on&offset=0&limit=20",
+  "items" : [ {
+    "album_group" : "album",
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2avRYQUWQpIkzJOEkf0MdY",
+      "id" : "2avRYQUWQpIkzJOEkf0MdY",
+      "name" : "Kx5",
+      "type" : "artist",
+      "uri" : "spotify:artist:2avRYQUWQpIkzJOEkf0MdY"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2CIMQHirSU0MQqyYHq0eOx",
+      "id" : "2CIMQHirSU0MQqyYHq0eOx",
+      "name" : "deadmau5",
+      "type" : "artist",
+      "uri" : "spotify:artist:2CIMQHirSU0MQqyYHq0eOx"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6TQj5BFPooTa08A7pk8AQ1",
+      "id" : "6TQj5BFPooTa08A7pk8AQ1",
+      "name" : "Kaskade",
+      "type" : "artist",
+      "uri" : "spotify:artist:6TQj5BFPooTa08A7pk8AQ1"
+    } ],
+    "available_markets" : [ "AR", "AU", "AT", "BE", "BO", "BR", "BG", "CA", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "DE", "EC", "EE", "SV", "FI", "FR", "GR", "GT", "HN", "HK", "HU", "IS", "IE", "IT", "LV", "LT", "LU", "MY", "MT", "MX", "NL", "NZ", "NI", "NO", "PA", "PY", "PE", "PH", "PL", "PT", "SG", "SK", "ES", "SE", "CH", "TW", "TR", "UY", "US", "GB", "AD", "LI", "MC", "ID", "JP", "TH", "VN", "RO", "IL", "ZA", "SA", "AE", "BH", "QA", "OM", "KW", "EG", "MA", "DZ", "TN", "LB", "JO", "PS", "IN", "BY", "KZ", "MD", "UA", "AL", "BA", "HR", "ME", "MK", "RS", "SI", "KR", "BD", "PK", "LK", "GH", "KE", "NG", "TZ", "UG", "AG", "AM", "BS", "BB", "BZ", "BT", "BW", "BF", "CV", "CW", "DM", "FJ", "GM", "GE", "GD", "GW", "GY", "HT", "JM", "KI", "LS", "LR", "MW", "MV", "ML", "MH", "FM", "NA", "NR", "NE", "PW", "PG", "WS", "SM", "ST", "SN", "SC", "SL", "SB", "KN", "LC", "VC", "SR", "TL", "TO", "TT", "TV", "VU", "AZ", "BN", "BI", "KH", "CM", "TD", "KM", "GQ", "SZ", "GA", "GN", "KG", "LA", "MO", "MR", "MN", "NP", "RW", "TG", "UZ", "ZW", "BJ", "MG", "MU", "MZ", "AO", "CI", "DJ", "ZM", "CD", "CG", "IQ", "LY", "TJ", "VE", "ET", "XK" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7krgzxFJr9YxsmyWlO5Ubg"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7krgzxFJr9YxsmyWlO5Ubg",
+    "id" : "7krgzxFJr9YxsmyWlO5Ubg",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab67616d0000b273ddd33bce31c72519c861d9db",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ab67616d00001e02ddd33bce31c72519c861d9db",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ab67616d00004851ddd33bce31c72519c861d9db",
+      "width" : 64
+    } ],
+    "name" : "Kx5",
+    "release_date" : "2023-03-17",
+    "release_date_precision" : "day",
+    "total_tracks" : 10,
+    "type" : "album",
+    "uri" : "spotify:album:7krgzxFJr9YxsmyWlO5Ubg"
+  }, {
+    "album_group" : "album",
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2CIMQHirSU0MQqyYHq0eOx",
+      "id" : "2CIMQHirSU0MQqyYHq0eOx",
+      "name" : "deadmau5",
+      "type" : "artist",
+      "uri" : "spotify:artist:2CIMQHirSU0MQqyYHq0eOx"
+    } ],
+    "available_markets" : [ "AR", "AU", "AT", "BE", "BO", "BR", "BG", "CA", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "DE", "EC", "EE", "SV", "FI", "FR", "GR", "GT", "HN", "HK", "HU", "IS", "IE", "IT", "LV", "LT", "LU", "MY", "MT", "MX", "NL", "NZ", "NI", "NO", "PA", "PY", "PE", "PH", "PL", "PT", "SG", "SK", "ES", "SE", "CH", "TW", "TR", "UY", "US", "GB", "AD", "LI", "MC", "ID", "JP", "TH", "VN", "RO", "IL", "ZA", "SA", "AE", "BH", "QA", "OM", "KW", "EG", "MA", "DZ", "TN", "LB", "JO", "PS", "IN", "BY", "KZ", "MD", "UA", "AL", "BA", "HR", "ME", "MK", "RS", "SI", "KR", "BD", "PK", "LK", "GH", "KE", "NG", "TZ", "UG", "AG", "AM", "BS", "BB", "BZ", "BT", "BW", "BF", "CV", "CW", "DM", "FJ", "GM", "GE", "GD", "GW", "GY", "HT", "JM", "KI", "LS", "LR", "MW", "MV", "ML", "MH", "FM", "NA", "NR", "NE", "PW", "PG", "WS", "SM", "ST", "SN", "SC", "SL", "SB", "KN", "LC", "VC", "SR", "TL", "TO", "TT", "TV", "VU", "AZ", "BN", "BI", "KH", "CM", "TD", "KM", "GQ", "SZ", "GA", "GN", "KG", "LA", "MO", "MR", "MN", "NP", "RW", "TG", "UZ", "ZW", "BJ", "MG", "MU", "MZ", "AO", "CI", "DJ", "ZM", "CD", "CG", "IQ", "LY", "TJ", "VE", "ET", "XK" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4hF86Uv2h2zOlcQH7OfaXt"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4hF86Uv2h2zOlcQH7OfaXt",
+    "id" : "4hF86Uv2h2zOlcQH7OfaXt",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab67616d0000b27358318403e253fbc3bf8ccd66",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ab67616d00001e0258318403e253fbc3bf8ccd66",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ab67616d0000485158318403e253fbc3bf8ccd66",
+      "width" : 64
+    } ],
+    "name" : "here's the drop!",
+    "release_date" : "2019-10-04",
+    "release_date_precision" : "day",
+    "total_tracks" : 15,
+    "type" : "album",
+    "uri" : "spotify:album:4hF86Uv2h2zOlcQH7OfaXt"
+  }, {
+    "album_group" : "album",
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2CIMQHirSU0MQqyYHq0eOx",
+      "id" : "2CIMQHirSU0MQqyYHq0eOx",
+      "name" : "deadmau5",
+      "type" : "artist",
+      "uri" : "spotify:artist:2CIMQHirSU0MQqyYHq0eOx"
+    } ],
+    "available_markets" : [ "AR", "AU", "AT", "BE", "BO", "BR", "BG", "CA", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "DE", "EC", "EE", "SV", "FI", "FR", "GR", "GT", "HN", "HK", "HU", "IS", "IE", "IT", "LV", "LT", "LU", "MY", "MT", "MX", "NL", "NZ", "NI", "NO", "PA", "PY", "PE", "PH", "PL", "PT", "SG", "SK", "ES", "SE", "CH", "TW", "TR", "UY", "US", "GB", "AD", "LI", "MC", "ID", "JP", "TH", "VN", "RO", "IL", "ZA", "SA", "AE", "BH", "QA", "OM", "KW", "EG", "MA", "DZ", "TN", "LB", "JO", "PS", "IN", "BY", "KZ", "MD", "UA", "AL", "BA", "HR", "ME", "MK", "RS", "SI", "KR", "BD", "PK", "LK", "GH", "KE", "NG", "TZ", "UG", "AG", "AM", "BS", "BB", "BZ", "BT", "BW", "BF", "CV", "CW", "DM", "FJ", "GM", "GE", "GD", "GW", "GY", "HT", "JM", "KI", "LS", "LR", "MW", "MV", "ML", "MH", "FM", "NA", "NR", "NE", "PW", "PG", "WS", "SM", "ST", "SN", "SC", "SL", "SB", "KN", "LC", "VC", "SR", "TL", "TO", "TT", "TV", "VU", "AZ", "BN", "BI", "KH", "CM", "TD", "KM", "GQ", "SZ", "GA", "GN", "KG", "LA", "MO", "MR", "MN", "NP", "RW", "TG", "UZ", "ZW", "BJ", "MG", "MU", "MZ", "AO", "CI", "DJ", "ZM", "CD", "CG", "IQ", "LY", "TJ", "VE", "ET", "XK" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4z65raYlwj3YSDUR5owVOn"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4z65raYlwj3YSDUR5owVOn",
+    "id" : "4z65raYlwj3YSDUR5owVOn",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab67616d0000b273a3f5ea0f5b81b07518c18415",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ab67616d00001e02a3f5ea0f5b81b07518c18415",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ab67616d00004851a3f5ea0f5b81b07518c18415",
+      "width" : 64
+    } ],
+    "name" : "mau5ville: Level 3",
+    "release_date" : "2019-02-01",
+    "release_date_precision" : "day",
+    "total_tracks" : 10,
+    "type" : "album",
+    "uri" : "spotify:album:4z65raYlwj3YSDUR5owVOn"
+  }, {
+    "album_group" : "album",
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2CIMQHirSU0MQqyYHq0eOx",
+      "id" : "2CIMQHirSU0MQqyYHq0eOx",
+      "name" : "deadmau5",
+      "type" : "artist",
+      "uri" : "spotify:artist:2CIMQHirSU0MQqyYHq0eOx"
+    } ],
+    "available_markets" : [ "AR", "AU", "AT", "BE", "BO", "BR", "BG", "CA", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "DE", "EC", "EE", "SV", "FI", "FR", "GR", "GT", "HN", "HK", "HU", "IS", "IE", "IT", "LV", "LT", "LU", "MY", "MT", "MX", "NL", "NZ", "NI", "NO", "PA", "PY", "PE", "PH", "PL", "PT", "SG", "SK", "ES", "SE", "CH", "TW", "TR", "UY", "US", "GB", "AD", "LI", "MC", "ID", "JP", "TH", "VN", "RO", "IL", "ZA", "SA", "AE", "BH", "QA", "OM", "KW", "EG", "MA", "DZ", "TN", "LB", "JO", "PS", "IN", "BY", "KZ", "MD", "UA", "AL", "BA", "HR", "ME", "MK", "RS", "SI", "KR", "BD", "PK", "LK", "GH", "KE", "NG", "TZ", "UG", "AG", "AM", "BS", "BB", "BZ", "BT", "BW", "BF", "CV", "CW", "DM", "FJ", "GM", "GE", "GD", "GW", "GY", "HT", "JM", "KI", "LS", "LR", "MW", "MV", "ML", "MH", "FM", "NA", "NR", "NE", "PW", "PG", "WS", "SM", "ST", "SN", "SC", "SL", "SB", "KN", "LC", "VC", "SR", "TL", "TO", "TT", "TV", "VU", "AZ", "BN", "BI", "KH", "CM", "TD", "KM", "GQ", "SZ", "GA", "GN", "KG", "LA", "MO", "MR", "MN", "NP", "RW", "TG", "UZ", "ZW", "BJ", "MG", "MU", "MZ", "AO", "CI", "DJ", "ZM", "CD", "CG", "IQ", "LY", "TJ", "VE", "ET", "XK" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3SnEK6pCU5qFtnLXSbZT6i"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3SnEK6pCU5qFtnLXSbZT6i",
+    "id" : "3SnEK6pCU5qFtnLXSbZT6i",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab67616d0000b273e8b698acb7f02b5dc387eac6",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ab67616d00001e02e8b698acb7f02b5dc387eac6",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ab67616d00004851e8b698acb7f02b5dc387eac6",
+      "width" : 64
+    } ],
+    "name" : "Polar (Music from the Netflix Film)",
+    "release_date" : "2019-01-25",
+    "release_date_precision" : "day",
+    "total_tracks" : 13,
+    "type" : "album",
+    "uri" : "spotify:album:3SnEK6pCU5qFtnLXSbZT6i"
+  }, {
+    "album_group" : "album",
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2CIMQHirSU0MQqyYHq0eOx",
+      "id" : "2CIMQHirSU0MQqyYHq0eOx",
+      "name" : "deadmau5",
+      "type" : "artist",
+      "uri" : "spotify:artist:2CIMQHirSU0MQqyYHq0eOx"
+    } ],
+    "available_markets" : [ "AR", "AU", "AT", "BE", "BO", "BR", "BG", "CA", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "DE", "EC", "EE", "SV", "FI", "FR", "GR", "GT", "HN", "HK", "HU", "IS", "IE", "IT", "LV", "LT", "LU", "MY", "MT", "MX", "NL", "NZ", "NI", "NO", "PA", "PY", "PE", "PH", "PL", "PT", "SG", "SK", "ES", "SE", "CH", "TW", "TR", "UY", "US", "GB", "AD", "LI", "MC", "ID", "JP", "TH", "VN", "RO", "IL", "ZA", "SA", "AE", "BH", "QA", "OM", "KW", "EG", "MA", "DZ", "TN", "LB", "JO", "PS", "IN", "BY", "KZ", "MD", "UA", "AL", "BA", "HR", "ME", "MK", "RS", "SI", "KR", "BD", "PK", "LK", "GH", "KE", "NG", "TZ", "UG", "AG", "AM", "BS", "BB", "BZ", "BT", "BW", "BF", "CV", "CW", "DM", "FJ", "GM", "GE", "GD", "GW", "GY", "HT", "JM", "KI", "LS", "LR", "MW", "MV", "ML", "MH", "FM", "NA", "NR", "NE", "PW", "PG", "WS", "SM", "ST", "SN", "SC", "SL", "SB", "KN", "LC", "VC", "SR", "TL", "TO", "TT", "TV", "VU", "AZ", "BN", "BI", "KH", "CM", "TD", "KM", "GQ", "SZ", "GA", "GN", "KG", "LA", "MO", "MR", "MN", "NP", "RW", "TG", "UZ", "ZW", "BJ", "MG", "MU", "MZ", "AO", "CI", "DJ", "ZM", "CD", "CG", "IQ", "LY", "TJ", "VE", "ET", "XK" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/32odmfR22gM1OFscdcxu0g"
+    },
+    "href" : "https://api.spotify.com/v1/albums/32odmfR22gM1OFscdcxu0g",
+    "id" : "32odmfR22gM1OFscdcxu0g",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab67616d0000b273d401cb50e77ce06f2d5c06ff",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ab67616d00001e02d401cb50e77ce06f2d5c06ff",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ab67616d00004851d401cb50e77ce06f2d5c06ff",
+      "width" : 64
+    } ],
+    "name" : "mau5ville: Level 2",
+    "release_date" : "2018-11-16",
+    "release_date_precision" : "day",
+    "total_tracks" : 8,
+    "type" : "album",
+    "uri" : "spotify:album:32odmfR22gM1OFscdcxu0g"
+  }, {
+    "album_group" : "album",
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2CIMQHirSU0MQqyYHq0eOx",
+      "id" : "2CIMQHirSU0MQqyYHq0eOx",
+      "name" : "deadmau5",
+      "type" : "artist",
+      "uri" : "spotify:artist:2CIMQHirSU0MQqyYHq0eOx"
+    } ],
+    "available_markets" : [ "AR", "AU", "AT", "BE", "BO", "BR", "BG", "CA", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "DE", "EC", "EE", "SV", "FI", "FR", "GR", "GT", "HN", "HK", "HU", "IS", "IE", "IT", "LV", "LT", "LU", "MY", "MT", "MX", "NL", "NZ", "NI", "NO", "PA", "PY", "PE", "PH", "PL", "PT", "SG", "SK", "ES", "SE", "CH", "TW", "TR", "UY", "US", "GB", "AD", "LI", "MC", "ID", "JP", "TH", "VN", "RO", "IL", "ZA", "SA", "AE", "BH", "QA", "OM", "KW", "EG", "MA", "DZ", "TN", "LB", "JO", "PS", "IN", "BY", "KZ", "MD", "UA", "AL", "BA", "HR", "ME", "MK", "RS", "SI", "KR", "BD", "PK", "LK", "GH", "KE", "NG", "TZ", "UG", "AG", "AM", "BS", "BB", "BZ", "BT", "BW", "BF", "CV", "CW", "DM", "FJ", "GM", "GE", "GD", "GW", "GY", "HT", "JM", "KI", "LS", "LR", "MW", "MV", "ML", "MH", "FM", "NA", "NR", "NE", "PW", "PG", "WS", "SM", "ST", "SN", "SC", "SL", "SB", "KN", "LC", "VC", "SR", "TL", "TO", "TT", "TV", "VU", "AZ", "BN", "BI", "KH", "CM", "TD", "KM", "GQ", "SZ", "GA", "GN", "KG", "LA", "MO", "MR", "MN", "NP", "RW", "TG", "UZ", "ZW", "BJ", "MG", "MU", "MZ", "AO", "CI", "DJ", "ZM", "CD", "CG", "IQ", "LY", "TJ", "VE", "ET", "XK" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1yBN874PWfaHCseLnGww9z"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1yBN874PWfaHCseLnGww9z",
+    "id" : "1yBN874PWfaHCseLnGww9z",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab67616d0000b27361f91c0f1b801b9c3ce75735",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ab67616d00001e0261f91c0f1b801b9c3ce75735",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ab67616d0000485161f91c0f1b801b9c3ce75735",
+      "width" : 64
+    } ],
+    "name" : "mau5ville: Level 1",
+    "release_date" : "2018-07-13",
+    "release_date_precision" : "day",
+    "total_tracks" : 8,
+    "type" : "album",
+    "uri" : "spotify:album:1yBN874PWfaHCseLnGww9z"
+  }, {
+    "album_group" : "album",
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2CIMQHirSU0MQqyYHq0eOx",
+      "id" : "2CIMQHirSU0MQqyYHq0eOx",
+      "name" : "deadmau5",
+      "type" : "artist",
+      "uri" : "spotify:artist:2CIMQHirSU0MQqyYHq0eOx"
+    } ],
+    "available_markets" : [ "AR", "AU", "AT", "BE", "BO", "BR", "BG", "CA", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "DE", "EC", "EE", "SV", "FI", "FR", "GR", "GT", "HN", "HK", "HU", "IS", "IE", "IT", "LV", "LT", "LU", "MY", "MT", "MX", "NL", "NZ", "NI", "NO", "PA", "PY", "PE", "PH", "PL", "PT", "SG", "SK", "ES", "SE", "CH", "TW", "TR", "UY", "US", "GB", "AD", "LI", "MC", "ID", "JP", "TH", "VN", "RO", "IL", "ZA", "SA", "AE", "BH", "QA", "OM", "KW", "EG", "MA", "DZ", "TN", "LB", "JO", "PS", "IN", "BY", "KZ", "MD", "UA", "AL", "BA", "HR", "ME", "MK", "RS", "SI", "KR", "BD", "PK", "LK", "GH", "KE", "NG", "TZ", "UG", "AG", "AM", "BS", "BB", "BZ", "BT", "BW", "BF", "CV", "CW", "DM", "FJ", "GM", "GE", "GD", "GW", "GY", "HT", "JM", "KI", "LS", "LR", "MW", "MV", "ML", "MH", "FM", "NA", "NR", "NE", "PW", "PG", "WS", "SM", "ST", "SN", "SC", "SL", "SB", "KN", "LC", "VC", "SR", "TL", "TO", "TT", "TV", "VU", "AZ", "BN", "BI", "KH", "CM", "TD", "KM", "GQ", "SZ", "GA", "GN", "KG", "LA", "MO", "MR", "MN", "NP", "RW", "TG", "UZ", "ZW", "BJ", "MG", "MU", "MZ", "AO", "CI", "DJ", "ZM", "CD", "CG", "IQ", "LY", "TJ", "VE", "ET", "XK" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0fZNEruh9owUeZfpmahYtB"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0fZNEruh9owUeZfpmahYtB",
+    "id" : "0fZNEruh9owUeZfpmahYtB",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab67616d0000b27336a0da6702244da8f0220160",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ab67616d00001e0236a0da6702244da8f0220160",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ab67616d0000485136a0da6702244da8f0220160",
+      "width" : 64
+    } ],
+    "name" : "where's the drop?",
+    "release_date" : "2018-03-30",
+    "release_date_precision" : "day",
+    "total_tracks" : 15,
+    "type" : "album",
+    "uri" : "spotify:album:0fZNEruh9owUeZfpmahYtB"
+  }, {
+    "album_group" : "album",
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2CIMQHirSU0MQqyYHq0eOx",
+      "id" : "2CIMQHirSU0MQqyYHq0eOx",
+      "name" : "deadmau5",
+      "type" : "artist",
+      "uri" : "spotify:artist:2CIMQHirSU0MQqyYHq0eOx"
+    } ],
+    "available_markets" : [ "AR", "AU", "AT", "BE", "BO", "BR", "BG", "CA", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "DE", "EC", "EE", "SV", "FI", "FR", "GR", "GT", "HN", "HK", "HU", "IS", "IE", "IT", "LV", "LT", "LU", "MY", "MT", "MX", "NL", "NZ", "NI", "NO", "PA", "PY", "PE", "PH", "PL", "PT", "SG", "SK", "ES", "SE", "CH", "TW", "TR", "UY", "US", "GB", "AD", "LI", "MC", "ID", "JP", "TH", "VN", "RO", "IL", "ZA", "SA", "AE", "BH", "QA", "OM", "KW", "EG", "MA", "DZ", "TN", "LB", "JO", "PS", "IN", "BY", "KZ", "MD", "UA", "AL", "BA", "HR", "ME", "MK", "RS", "SI", "KR", "BD", "PK", "LK", "GH", "KE", "NG", "TZ", "UG", "AG", "AM", "BS", "BB", "BZ", "BT", "BW", "BF", "CV", "CW", "DM", "FJ", "GM", "GE", "GD", "GW", "GY", "HT", "JM", "KI", "LS", "LR", "MW", "MV", "ML", "MH", "FM", "NA", "NR", "NE", "PW", "PG", "WS", "SM", "ST", "SN", "SC", "SL", "SB", "KN", "LC", "VC", "SR", "TL", "TO", "TT", "TV", "VU", "AZ", "BN", "BI", "KH", "CM", "TD", "KM", "GQ", "SZ", "GA", "GN", "KG", "LA", "MO", "MR", "MN", "NP", "RW", "TG", "UZ", "ZW", "BJ", "MG", "MU", "MZ", "AO", "CI", "DJ", "ZM", "CD", "CG", "IQ", "LY", "TJ", "VE", "ET", "XK" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3NqLE9V39dR0Pikwv1hYAA"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3NqLE9V39dR0Pikwv1hYAA",
+    "id" : "3NqLE9V39dR0Pikwv1hYAA",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab67616d0000b273e1be360dcf053595aae6ccf5",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ab67616d00001e02e1be360dcf053595aae6ccf5",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ab67616d00004851e1be360dcf053595aae6ccf5",
+      "width" : 64
+    } ],
+    "name" : "stuff i used to do",
+    "release_date" : "2017-03-03",
+    "release_date_precision" : "day",
+    "total_tracks" : 16,
+    "type" : "album",
+    "uri" : "spotify:album:3NqLE9V39dR0Pikwv1hYAA"
+  }, {
+    "album_group" : "album",
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2CIMQHirSU0MQqyYHq0eOx",
+      "id" : "2CIMQHirSU0MQqyYHq0eOx",
+      "name" : "deadmau5",
+      "type" : "artist",
+      "uri" : "spotify:artist:2CIMQHirSU0MQqyYHq0eOx"
+    } ],
+    "available_markets" : [ "AR", "AU", "AT", "BE", "BO", "BR", "BG", "CA", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "DE", "EC", "EE", "SV", "FI", "FR", "GR", "GT", "HN", "HK", "HU", "IS", "IE", "IT", "LV", "LT", "LU", "MY", "MT", "MX", "NL", "NZ", "NI", "NO", "PA", "PY", "PE", "PH", "PL", "PT", "SG", "SK", "ES", "SE", "CH", "TW", "TR", "UY", "US", "GB", "AD", "LI", "MC", "ID", "JP", "TH", "VN", "RO", "IL", "ZA", "SA", "AE", "BH", "QA", "OM", "KW", "EG", "MA", "DZ", "TN", "LB", "JO", "PS", "IN", "BY", "KZ", "MD", "UA", "AL", "BA", "HR", "ME", "MK", "RS", "SI", "KR", "BD", "PK", "LK", "GH", "KE", "NG", "TZ", "UG", "AG", "AM", "BS", "BB", "BZ", "BT", "BW", "BF", "CV", "CW", "DM", "FJ", "GM", "GE", "GD", "GW", "GY", "HT", "JM", "KI", "LS", "LR", "MW", "MV", "ML", "MH", "FM", "NA", "NR", "NE", "PW", "PG", "WS", "SM", "ST", "SN", "SC", "SL", "SB", "KN", "LC", "VC", "SR", "TL", "TO", "TT", "TV", "VU", "AZ", "BN", "BI", "KH", "CM", "TD", "KM", "GQ", "SZ", "GA", "GN", "KG", "LA", "MO", "MR", "MN", "NP", "RW", "TG", "UZ", "ZW", "BJ", "MG", "MU", "MZ", "AO", "CI", "DJ", "ZM", "CD", "CG", "IQ", "LY", "TJ", "VE", "ET", "XK" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4VvkU55AMGm6n8VY5ZRuRT"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4VvkU55AMGm6n8VY5ZRuRT",
+    "id" : "4VvkU55AMGm6n8VY5ZRuRT",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab67616d0000b273a43f9418af7e912a42b40d27",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ab67616d00001e02a43f9418af7e912a42b40d27",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ab67616d00004851a43f9418af7e912a42b40d27",
+      "width" : 64
+    } ],
+    "name" : "W:/2016ALBUM/",
+    "release_date" : "2016-12-02",
+    "release_date_precision" : "day",
+    "total_tracks" : 12,
+    "type" : "album",
+    "uri" : "spotify:album:4VvkU55AMGm6n8VY5ZRuRT"
+  }, {
+    "album_group" : "album",
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2CIMQHirSU0MQqyYHq0eOx",
+      "id" : "2CIMQHirSU0MQqyYHq0eOx",
+      "name" : "deadmau5",
+      "type" : "artist",
+      "uri" : "spotify:artist:2CIMQHirSU0MQqyYHq0eOx"
+    } ],
+    "available_markets" : [ "AR", "AU", "AT", "BE", "BO", "BR", "BG", "CA", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "DE", "EC", "EE", "SV", "FI", "FR", "GR", "GT", "HN", "HK", "HU", "IS", "IE", "IT", "LV", "LT", "LU", "MY", "MT", "MX", "NL", "NZ", "NI", "NO", "PA", "PY", "PE", "PH", "PL", "PT", "SG", "SK", "ES", "SE", "CH", "TW", "TR", "UY", "US", "GB", "AD", "LI", "MC", "ID", "JP", "TH", "VN", "RO", "IL", "ZA", "SA", "AE", "BH", "QA", "OM", "KW", "EG", "MA", "DZ", "TN", "LB", "JO", "PS", "IN", "BY", "KZ", "MD", "UA", "AL", "BA", "HR", "ME", "MK", "RS", "SI", "KR", "BD", "PK", "LK", "GH", "KE", "NG", "TZ", "UG", "AG", "AM", "BS", "BB", "BZ", "BT", "BW", "BF", "CV", "CW", "DM", "FJ", "GM", "GE", "GD", "GW", "GY", "HT", "JM", "KI", "LS", "LR", "MW", "MV", "ML", "MH", "FM", "NA", "NR", "NE", "PW", "PG", "WS", "SM", "ST", "SN", "SC", "SL", "SB", "KN", "LC", "VC", "SR", "TL", "TO", "TT", "TV", "VU", "AZ", "BN", "BI", "KH", "CM", "TD", "KM", "GQ", "SZ", "GA", "GN", "KG", "LA", "MO", "MR", "MN", "NP", "RW", "TG", "UZ", "ZW", "BJ", "MG", "MU", "MZ", "AO", "CI", "DJ", "ZM", "CD", "CG", "IQ", "LY", "TJ", "VE", "ET", "XK" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7EfWC42oCPkqWKF0E5YCcm"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7EfWC42oCPkqWKF0E5YCcm",
+    "id" : "7EfWC42oCPkqWKF0E5YCcm",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab67616d0000b2732ce7f00e170d8a07d3f071ea",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ab67616d00001e022ce7f00e170d8a07d3f071ea",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ab67616d000048512ce7f00e170d8a07d3f071ea",
+      "width" : 64
+    } ],
+    "name" : "deadmau5 At Play, Vol. 5",
+    "release_date" : "2015-05-04",
+    "release_date_precision" : "day",
+    "total_tracks" : 10,
+    "type" : "album",
+    "uri" : "spotify:album:7EfWC42oCPkqWKF0E5YCcm"
+  }, {
+    "album_group" : "album",
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2CIMQHirSU0MQqyYHq0eOx",
+      "id" : "2CIMQHirSU0MQqyYHq0eOx",
+      "name" : "deadmau5",
+      "type" : "artist",
+      "uri" : "spotify:artist:2CIMQHirSU0MQqyYHq0eOx"
+    } ],
+    "available_markets" : [ "AD", "AG", "AR", "AT", "AU", "BB", "BE", "BG", "BO", "BR", "BS", "CA", "CH", "CL", "CO", "CR", "CW", "CY", "CZ", "DE", "DK", "DM", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GD", "GR", "GT", "GY", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JM", "JP", "KN", "LC", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "RO", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TT", "TW", "UA", "US", "UY", "VC", "VN" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7iDqcnIHjisPl2Yf4hsf8f"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7iDqcnIHjisPl2Yf4hsf8f",
+    "id" : "7iDqcnIHjisPl2Yf4hsf8f",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab67616d0000b273d187000a5770a9179f8d99c5",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ab67616d00001e02d187000a5770a9179f8d99c5",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ab67616d00004851d187000a5770a9179f8d99c5",
+      "width" : 64
+    } ],
+    "name" : "while(1<2)",
+    "release_date" : "2014-06-24",
+    "release_date_precision" : "day",
+    "total_tracks" : 25,
+    "type" : "album",
+    "uri" : "spotify:album:7iDqcnIHjisPl2Yf4hsf8f"
+  }, {
+    "album_group" : "album",
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2CIMQHirSU0MQqyYHq0eOx",
+      "id" : "2CIMQHirSU0MQqyYHq0eOx",
+      "name" : "deadmau5",
+      "type" : "artist",
+      "uri" : "spotify:artist:2CIMQHirSU0MQqyYHq0eOx"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5otwc3DkAilJiwUGBOIgom"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5otwc3DkAilJiwUGBOIgom",
+    "id" : "5otwc3DkAilJiwUGBOIgom",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab67616d0000b27329bea50ca6ac26acec3e9b2f",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ab67616d00001e0229bea50ca6ac26acec3e9b2f",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ab67616d0000485129bea50ca6ac26acec3e9b2f",
+      "width" : 64
+    } ],
+    "name" : "> album title goes here < (Deluxe)",
+    "release_date" : "2012-09-21",
+    "release_date_precision" : "day",
+    "total_tracks" : 16,
+    "type" : "album",
+    "uri" : "spotify:album:5otwc3DkAilJiwUGBOIgom"
+  }, {
+    "album_group" : "album",
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2CIMQHirSU0MQqyYHq0eOx",
+      "id" : "2CIMQHirSU0MQqyYHq0eOx",
+      "name" : "deadmau5",
+      "type" : "artist",
+      "uri" : "spotify:artist:2CIMQHirSU0MQqyYHq0eOx"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0fz9O5VLlPN6gxypI3Pobx"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0fz9O5VLlPN6gxypI3Pobx",
+    "id" : "0fz9O5VLlPN6gxypI3Pobx",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab67616d0000b273270f70e6b126143ddaa5b07c",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ab67616d00001e02270f70e6b126143ddaa5b07c",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ab67616d00004851270f70e6b126143ddaa5b07c",
+      "width" : 64
+    } ],
+    "name" : "> album title goes here <",
+    "release_date" : "2012-09-21",
+    "release_date_precision" : "day",
+    "total_tracks" : 13,
+    "type" : "album",
+    "uri" : "spotify:album:0fz9O5VLlPN6gxypI3Pobx"
+  }, {
+    "album_group" : "album",
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7CxdGFcZV0dgrz4D35aG6o"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7CxdGFcZV0dgrz4D35aG6o",
+      "id" : "7CxdGFcZV0dgrz4D35aG6o",
+      "name" : "Melleefresh",
+      "type" : "artist",
+      "uri" : "spotify:artist:7CxdGFcZV0dgrz4D35aG6o"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2CIMQHirSU0MQqyYHq0eOx",
+      "id" : "2CIMQHirSU0MQqyYHq0eOx",
+      "name" : "deadmau5",
+      "type" : "artist",
+      "uri" : "spotify:artist:2CIMQHirSU0MQqyYHq0eOx"
+    } ],
+    "available_markets" : [ "AR", "AU", "AT", "BE", "BO", "BR", "BG", "CA", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "DE", "EC", "EE", "SV", "FI", "FR", "GR", "GT", "HN", "HK", "HU", "IS", "IE", "IT", "LV", "LT", "LU", "MY", "MT", "MX", "NL", "NZ", "NI", "NO", "PA", "PY", "PE", "PH", "PL", "PT", "SG", "SK", "ES", "SE", "CH", "TW", "TR", "UY", "US", "GB", "AD", "LI", "MC", "ID", "JP", "TH", "VN", "RO", "IL", "ZA", "SA", "AE", "BH", "QA", "OM", "KW", "EG", "MA", "DZ", "TN", "LB", "JO", "PS", "IN", "BY", "KZ", "MD", "UA", "AL", "BA", "HR", "ME", "MK", "RS", "SI", "KR", "BD", "PK", "LK", "GH", "KE", "NG", "TZ", "UG", "AG", "AM", "BS", "BB", "BZ", "BT", "BW", "BF", "CV", "CW", "DM", "FJ", "GM", "GE", "GD", "GW", "GY", "HT", "JM", "KI", "LS", "LR", "MW", "MV", "ML", "MH", "FM", "NA", "NR", "NE", "PW", "PG", "WS", "SM", "ST", "SN", "SC", "SL", "SB", "KN", "LC", "VC", "SR", "TL", "TO", "TT", "TV", "VU", "AZ", "BN", "BI", "KH", "CM", "TD", "KM", "GQ", "SZ", "GA", "GN", "KG", "LA", "MO", "MR", "MN", "NP", "RW", "TG", "UZ", "ZW", "BJ", "MG", "MU", "MZ", "AO", "CI", "DJ", "ZM", "CD", "CG", "IQ", "LY", "TJ", "VE", "ET", "XK" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3xp9A0kXzxqUztRASTjVD5"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3xp9A0kXzxqUztRASTjVD5",
+    "id" : "3xp9A0kXzxqUztRASTjVD5",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab67616d0000b273266c0ac8e9c911136b6b38af",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ab67616d00001e02266c0ac8e9c911136b6b38af",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ab67616d00004851266c0ac8e9c911136b6b38af",
+      "width" : 64
+    } ],
+    "name" : "At Play",
+    "release_date" : "2011-10-18",
+    "release_date_precision" : "day",
+    "total_tracks" : 10,
+    "type" : "album",
+    "uri" : "spotify:album:3xp9A0kXzxqUztRASTjVD5"
+  }, {
+    "album_group" : "album",
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2CIMQHirSU0MQqyYHq0eOx",
+      "id" : "2CIMQHirSU0MQqyYHq0eOx",
+      "name" : "deadmau5",
+      "type" : "artist",
+      "uri" : "spotify:artist:2CIMQHirSU0MQqyYHq0eOx"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7emthHnV7wxP0MivaoadDi"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7emthHnV7wxP0MivaoadDi",
+    "id" : "7emthHnV7wxP0MivaoadDi",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab67616d0000b2738380cf66c7565197f9d34f47",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ab67616d00001e028380cf66c7565197f9d34f47",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ab67616d000048518380cf66c7565197f9d34f47",
+      "width" : 64
+    } ],
+    "name" : "4x4=12",
+    "release_date" : "2010-12-06",
+    "release_date_precision" : "day",
+    "total_tracks" : 10,
+    "type" : "album",
+    "uri" : "spotify:album:7emthHnV7wxP0MivaoadDi"
+  }, {
+    "album_group" : "album",
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2CIMQHirSU0MQqyYHq0eOx",
+      "id" : "2CIMQHirSU0MQqyYHq0eOx",
+      "name" : "deadmau5",
+      "type" : "artist",
+      "uri" : "spotify:artist:2CIMQHirSU0MQqyYHq0eOx"
+    } ],
+    "available_markets" : [ "AR", "AU", "AT", "BE", "BO", "BR", "BG", "CA", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "DE", "EC", "EE", "SV", "FI", "FR", "GR", "GT", "HN", "HK", "HU", "IS", "IE", "IT", "LV", "LT", "LU", "MY", "MT", "MX", "NL", "NZ", "NI", "NO", "PA", "PY", "PE", "PH", "PL", "PT", "SG", "SK", "ES", "SE", "CH", "TW", "TR", "UY", "US", "GB", "AD", "LI", "MC", "ID", "JP", "TH", "VN", "RO", "IL", "ZA", "SA", "AE", "BH", "QA", "OM", "KW", "EG", "MA", "DZ", "TN", "LB", "JO", "PS", "IN", "BY", "KZ", "MD", "UA", "AL", "BA", "HR", "ME", "MK", "RS", "SI", "KR", "BD", "PK", "LK", "GH", "KE", "NG", "TZ", "UG", "AG", "AM", "BS", "BB", "BZ", "BT", "BW", "BF", "CV", "CW", "DM", "FJ", "GM", "GE", "GD", "GW", "GY", "HT", "JM", "KI", "LS", "LR", "MW", "MV", "ML", "MH", "FM", "NA", "NR", "NE", "PW", "PG", "WS", "SM", "ST", "SN", "SC", "SL", "SB", "KN", "LC", "VC", "SR", "TL", "TO", "TT", "TV", "VU", "AZ", "BN", "BI", "KH", "CM", "TD", "KM", "GQ", "SZ", "GA", "GN", "KG", "LA", "MO", "MR", "MN", "NP", "RW", "TG", "UZ", "ZW", "BJ", "MG", "MU", "MZ", "AO", "CI", "DJ", "ZM", "CD", "CG", "IQ", "LY", "TJ", "VE", "ET", "XK" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5AzAgASWg9uetYvwOKOLFQ"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5AzAgASWg9uetYvwOKOLFQ",
+    "id" : "5AzAgASWg9uetYvwOKOLFQ",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/0ec8f4e7aaf5f594720b017ae4621a7a62ac9e81",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/c59ec5dd018fcce26784d1433a8ce2bacfe74e4b",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/2fc387c873f9f62132b26c8a8b7bd468a45ca542",
+      "width" : 64
+    } ],
+    "name" : "At Play Vol. 3",
+    "release_date" : "2010-07-13",
+    "release_date_precision" : "day",
+    "total_tracks" : 10,
+    "type" : "album",
+    "uri" : "spotify:album:5AzAgASWg9uetYvwOKOLFQ"
+  }, {
+    "album_group" : "album",
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2CIMQHirSU0MQqyYHq0eOx",
+      "id" : "2CIMQHirSU0MQqyYHq0eOx",
+      "name" : "deadmau5",
+      "type" : "artist",
+      "uri" : "spotify:artist:2CIMQHirSU0MQqyYHq0eOx"
+    } ],
+    "available_markets" : [ "AR", "AU", "AT", "BE", "BO", "BR", "BG", "CA", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "DE", "EC", "EE", "SV", "FI", "FR", "GR", "GT", "HN", "HK", "HU", "IS", "IE", "IT", "LV", "LT", "LU", "MY", "MT", "MX", "NL", "NZ", "NI", "NO", "PA", "PY", "PE", "PH", "PL", "PT", "SG", "SK", "ES", "SE", "CH", "TW", "TR", "UY", "US", "GB", "AD", "LI", "MC", "ID", "JP", "TH", "VN", "RO", "IL", "ZA", "SA", "AE", "BH", "QA", "OM", "KW", "EG", "MA", "DZ", "TN", "LB", "JO", "PS", "IN", "BY", "KZ", "MD", "UA", "AL", "BA", "HR", "ME", "MK", "RS", "SI", "KR", "BD", "PK", "LK", "GH", "KE", "NG", "TZ", "UG", "AG", "AM", "BS", "BB", "BZ", "BT", "BW", "BF", "CV", "CW", "DM", "FJ", "GM", "GE", "GD", "GW", "GY", "HT", "JM", "KI", "LS", "LR", "MW", "MV", "ML", "MH", "FM", "NA", "NR", "NE", "PW", "PG", "WS", "SM", "ST", "SN", "SC", "SL", "SB", "KN", "LC", "VC", "SR", "TL", "TO", "TT", "TV", "VU", "AZ", "BN", "BI", "KH", "CM", "TD", "KM", "GQ", "SZ", "GA", "GN", "KG", "LA", "MO", "MR", "MN", "NP", "RW", "TG", "UZ", "ZW", "BJ", "MG", "MU", "MZ", "AO", "CI", "DJ", "ZM", "CD", "CG", "IQ", "LY", "TJ", "VE", "ET", "XK" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7yYix5bdURcdnlmHTaitEz"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7yYix5bdURcdnlmHTaitEz",
+    "id" : "7yYix5bdURcdnlmHTaitEz",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab67616d0000b2730df1c2c5a657c7c9c8b63b49",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ab67616d00001e020df1c2c5a657c7c9c8b63b49",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ab67616d000048510df1c2c5a657c7c9c8b63b49",
+      "width" : 64
+    } ],
+    "name" : "At Play Vol. 2",
+    "release_date" : "2009-12-01",
+    "release_date_precision" : "day",
+    "total_tracks" : 10,
+    "type" : "album",
+    "uri" : "spotify:album:7yYix5bdURcdnlmHTaitEz"
+  }, {
+    "album_group" : "album",
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2CIMQHirSU0MQqyYHq0eOx",
+      "id" : "2CIMQHirSU0MQqyYHq0eOx",
+      "name" : "deadmau5",
+      "type" : "artist",
+      "uri" : "spotify:artist:2CIMQHirSU0MQqyYHq0eOx"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/35Fndz8m4KKlQm4jCDNB20"
+    },
+    "href" : "https://api.spotify.com/v1/albums/35Fndz8m4KKlQm4jCDNB20",
+    "id" : "35Fndz8m4KKlQm4jCDNB20",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab67616d0000b27341cd0a6f84d32dff8880618e",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ab67616d00001e0241cd0a6f84d32dff8880618e",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ab67616d0000485141cd0a6f84d32dff8880618e",
+      "width" : 64
+    } ],
+    "name" : "For Lack of a Better Name (Bonus Track Version)",
+    "release_date" : "2009-09-22",
+    "release_date_precision" : "day",
+    "total_tracks" : 11,
+    "type" : "album",
+    "uri" : "spotify:album:35Fndz8m4KKlQm4jCDNB20"
+  }, {
+    "album_group" : "album",
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2CIMQHirSU0MQqyYHq0eOx",
+      "id" : "2CIMQHirSU0MQqyYHq0eOx",
+      "name" : "deadmau5",
+      "type" : "artist",
+      "uri" : "spotify:artist:2CIMQHirSU0MQqyYHq0eOx"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3HIZsT3fYp8Vf2lZNVkgaw"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3HIZsT3fYp8Vf2lZNVkgaw",
+    "id" : "3HIZsT3fYp8Vf2lZNVkgaw",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab67616d0000b27372123fd7f792d5d197d46e34",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ab67616d00001e0272123fd7f792d5d197d46e34",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ab67616d0000485172123fd7f792d5d197d46e34",
+      "width" : 64
+    } ],
+    "name" : "For Lack of a Better Name",
+    "release_date" : "2009-09-22",
+    "release_date_precision" : "day",
+    "total_tracks" : 10,
+    "type" : "album",
+    "uri" : "spotify:album:3HIZsT3fYp8Vf2lZNVkgaw"
+  }, {
+    "album_group" : "album",
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2CIMQHirSU0MQqyYHq0eOx",
+      "id" : "2CIMQHirSU0MQqyYHq0eOx",
+      "name" : "deadmau5",
+      "type" : "artist",
+      "uri" : "spotify:artist:2CIMQHirSU0MQqyYHq0eOx"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2KAXIfaWLIK2WJFL9bBubR"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2KAXIfaWLIK2WJFL9bBubR",
+    "id" : "2KAXIfaWLIK2WJFL9bBubR",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab67616d0000b2734c36cf70b0c7aba171d1b349",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ab67616d00001e024c36cf70b0c7aba171d1b349",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ab67616d000048514c36cf70b0c7aba171d1b349",
+      "width" : 64
+    } ],
+    "name" : "For Lack of A Better Name (The Extended Mixes)",
+    "release_date" : "2009-09-22",
+    "release_date_precision" : "day",
+    "total_tracks" : 10,
+    "type" : "album",
+    "uri" : "spotify:album:2KAXIfaWLIK2WJFL9bBubR"
+  } ],
+  "limit" : 20,
+  "next" : "https://api.spotify.com/v1/artists/2CIMQHirSU0MQqyYHq0eOx/albums?include_groups=album,single,compilation,appears_on&offset=20&limit=20",
+  "offset" : 0,
+  "previous" : null,
+  "total" : 392
+}

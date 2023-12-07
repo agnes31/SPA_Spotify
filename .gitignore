@@ -1,0 +1,6 @@
+# System files
+# ------------
+
+Icon
+.DS_Store
+node_modules

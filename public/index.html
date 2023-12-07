@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9" crossorigin="anonymous">
+    <title>Spotify playlist</title>
+    <style>
+        .custom-hover:hover {
+            transform: scale(1.05);
+            transition: transform .2s;
+        }
+    </style>
+</head>
+
+<body class="d-flex flex-column min-vh-100">
+    <!-- NAV -->
+    <nav class="navbar navbar-expand-lg navbar-dark bg-success fixed-top">
+        <div class="container-fluid">
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbar"
+                aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse justify-content-md-center" id="navbar">
+                <ul class="navbar-nav">
+                    <li class="nav-item">
+                        <a class="nav-link" aria-current="page" href="/" data-link>Accueil</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/artists" data-link>Artists</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <!-- APP -->
+    <main id="app" class="flex-grow-1"></main>
+    <!-- FOOTER -->
+    <!-- <footer class="d-flex flex-wrap justify-content-center align-items-center py-3 my-2 border-top bg-success">
+        <p class="text-muted mb-0">&copy; 2021 - Spotify</p>
+    </footer> -->
+
+    <div class="card text-center">
+        <div class="card-body">
+          <p class="text-muted mb-0">&copy; 2023 Spotify Clone. Tous droits réservés.</p> 
+          <!-- <p>Contactez-nous : contact@spotifyclone.com</p>   -->
+        </div>
+      </div>
+
+
+    <script type="module" src="/static/js/index.js"></script>
+    <!-- BOOTSTRAP JS -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-HwwvtgBNo3bZJJLYd8oVXjrBZt8cqVSpeBNS5n7C8IVInixGAoxmnlMuBnhbgrkm"
+        crossorigin="anonymous"></script>
+</body>
+
+</html>
