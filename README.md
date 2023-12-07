@@ -4,7 +4,7 @@ SPA - Single Page Application - Node.js
 
 ## Description
 
-Single Page Application fait en node.js avec des API prisent de la plateforme Spotify lié à mon compte.
+Single Page Application fait en node.js avec des API prisent de la plateforme Spotify.
 
 Permettre la navigation entre chaque page sans recharger la page.
 
